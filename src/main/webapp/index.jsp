@@ -1,7 +1,7 @@
 <html>
 <body>
   <h2>Hello Devops goldentechnology ?</h2>
-  <h2>Formation DevOps Linux ?</h2>
+  <h2>Formation DevOps Linux </h2>
 <h3>Welcome to Cloud With Hammad| Microsoft Certified Security Engineer, Azure & AWS Solution Architect </h3>
   
 <marquee>Welcome to Cloud With Hammad</marquee>
